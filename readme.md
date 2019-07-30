@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Build a REST API with Laravel API resources</h1>
+<h1  align="center">Build a REST API with Laravel API resources</h1>
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
