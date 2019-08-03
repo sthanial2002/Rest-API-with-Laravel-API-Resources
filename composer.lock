@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f8b7cf6852658657ae5e794ce5879cd3",
+    "content-hash": "a311c027c214ac88bb9632b316858442",
     "packages": [
         {
             "name": "cocur/slugify",
@@ -456,20 +456,20 @@
         },
         {
             "name": "garygreen/pretty-routes",
-            "version": "0.0.8",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/garygreen/pretty-routes.git",
-                "reference": "3b5967f0bc0c55adfab1905e750f443b2a980d50"
+                "reference": "8791b977305dbd52b0162f80dbc2bdcf9d17e72c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/garygreen/pretty-routes/zipball/3b5967f0bc0c55adfab1905e750f443b2a980d50",
-                "reference": "3b5967f0bc0c55adfab1905e750f443b2a980d50",
+                "url": "https://api.github.com/repos/garygreen/pretty-routes/zipball/8791b977305dbd52b0162f80dbc2bdcf9d17e72c",
+                "reference": "8791b977305dbd52b0162f80dbc2bdcf9d17e72c",
                 "shasum": ""
             },
             "require": {
-                "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
+                "laravel/framework": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*"
             },
             "type": "library",
             "extra": {
@@ -495,7 +495,7 @@
                 }
             ],
             "description": "Pretty routes for Laravel 5.",
-            "time": "2017-06-08T14:58:27+00:00"
+            "time": "2019-02-28T14:02:03+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
