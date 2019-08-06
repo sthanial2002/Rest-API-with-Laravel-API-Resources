@@ -12,8 +12,8 @@ class BookSeeder extends Seeder
      */
     public function run()
     {
-        factory(App\Models\Book::class, 20)->create()->each(function($user){
-            $user->save();
+        factory(App\Models\Book::class, 50)->create()->each(function ($b) {
+            $b->ratings()->save(factory(App\Models\Rating::class)->make());
         });
     }
 }
